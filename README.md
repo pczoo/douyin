@@ -16,9 +16,9 @@
 v26-web.douyinvod.com/9cf60cf6e23fe18c44049d639def7a94/627c9862/video/tos/cn/tos-cn-ve-15c001-alinc2/5668db35480e403d932378dff85b44d4/?a=6383&ch=4&cr=0&dr=0&lr=all&cd=0%7C0%7C0%7C0&cv=1&br=2984&bt=2984&cs=0&ds=6&ft=X1nbLXvvBQOBULrZN8Z.wNnOYZlcsvBYF2bLcjCHTuZm&mime_type=video_mp4&qs=0&rc=NjM6NDozN2g2NzY0Z2hmM0BpMzRxdTg6Zm1vPDMzNGkzM0A0YTZjMTIvNWAxYy80YGA1YSNwby00cjRvZmlgLS1kLS9zcw%3D%3D&l=2022051212145301013516808349424BA5
 ```
 复制该链接在浏览器打开：
-![直接打开src链接](![1652330790](https://user-images.githubusercontent.com/79189521/167994048-d4a8cea1-41ff-4101-a7d5-eace948206ab.jpg))
+![直接打开src链接](https://user-images.githubusercontent.com/79189521/167994048-d4a8cea1-41ff-4101-a7d5-eace948206ab.jpg)
 
-发现仍然是带水印的视频，而且页面重定向成了新地址：
+这样就可以下载视频啦！
 ```
 http://v6-dy-y.ixigua.com
 /8d090338ca04948b648bb7e4ba0b215f/5e72da81/video/tos/hxsy/tos-hxsy-ve-0015/832e6e52408d4c1e931b763b152e5d21
