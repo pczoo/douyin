@@ -12,8 +12,6 @@
 ![浏览器打开初始链接](https://s1.ax1x.com/2022/05/12/OwXCxf.png)
 
 可以看到在video标签中存在三个视频链接。
-
-![直接打开src链接](https://tu.eebk.com/item/627c8f8a09475431291bb0df.png)
 ```
 v26-web.douyinvod.com/9cf60cf6e23fe18c44049d639def7a94/627c9862/video/tos/cn/tos-cn-ve-15c001-alinc2/5668db35480e403d932378dff85b44d4/?a=6383&ch=4&cr=0&dr=0&lr=all&cd=0%7C0%7C0%7C0&cv=1&br=2984&bt=2984&cs=0&ds=6&ft=X1nbLXvvBQOBULrZN8Z.wNnOYZlcsvBYF2bLcjCHTuZm&mime_type=video_mp4&qs=0&rc=NjM6NDozN2g2NzY0Z2hmM0BpMzRxdTg6Zm1vPDMzNGkzM0A0YTZjMTIvNWAxYy80YGA1YSNwby00cjRvZmlgLS1kLS9zcw%3D%3D&l=2022051212145301013516808349424BA5
 ```
