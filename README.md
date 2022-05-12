@@ -11,7 +11,7 @@
 
 ![浏览器打开初始链接](https://s1.ax1x.com/2022/05/12/OwXCxf.png)
 
-可以看到在video标签中存在三个视频链接。
+可以看到在video标签中存在三个视频链接，我们选择一个就可以了。
 ```
 v26-web.douyinvod.com
 /9cf60cf6e23fe18c44049d639def7a94/627c9862/video/tos/cn/tos-cn-ve-15c001-alinc2/5668
@@ -25,10 +25,7 @@ p4&qs=0&rc=NjM6NDozN2g2NzY0Z2hmM0BpMzRxdTg6Zm1vPDMzNGkzM0A0YTZjMTIvNWAxYy80YGA1Y
 
 这样就可以下载视频啦！
 ```
-http://v6-dy-y.ixigua.com
-/8d090338ca04948b648bb7e4ba0b215f/5e72da81/video/tos/hxsy/tos-hxsy-ve-0015/832e6e52408d4c1e931b763b152e5d21
-/?a=1128&br=0&bt=2405&cr=0&cs=0&dr=0&ds=3&er=&l=202003190935350101940982142734B1FC&lr=aweme&qs=0&rc=am9oc
-zx5OzQ3czMzZGkzM0ApODVpNzk8OWRmNzVnM2g1N2dsZTFhci9fcGxfLS1fLS9zczM0Yl8vMzVfYGBhNmItYTE6Yw%3D%3D&vl=&vr=
+//v26-web.douyinvod.com/9cf60cf6e23fe18c44049d639def7a94/627c9862/video/tos/cn/tos-cn-ve-15c001-alinc2/5668db35480e403d932378dff85b44d4/?a=6383&ch=4&cr=0&dr=0&lr=all&cd=0%7C0%7C0%7C0&cv=1&br=2984&bt=2984&cs=0&ds=6&ft=X1nbLXvvBQOBULrZN8Z.wNnOYZlcsvBYF2bLcjCHTuZm&mime_type=video_mp4&qs=0&rc=NjM6NDozN2g2NzY0Z2hmM0BpMzRxdTg6Zm1vPDMzNGkzM0A0YTZjMTIvNWAxYy80YGA1YSNwby00cjRvZmlgLS1kLS9zcw%3D%3D&l=2022051212145301013516808349424BA5
 ```
 
 分析之前的地址：
