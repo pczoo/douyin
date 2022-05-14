@@ -12,7 +12,7 @@
 ![浏览器打开初始链接](https://s1.ax1x.com/2022/05/12/OwXCxf.png)
 
 可以看到在video标签中存在三个视频链接，我们选择一个就可以了。
-![浏览](https://11gd-1306338515.cos.ap-guangzhou.myqcloud.com/github.jpg)
+![](https://11gd-1306338515.cos.ap-guangzhou.myqcloud.com/github.jpg)
 
 复制该链接在浏览器打开：
 ![直接打开src链接](https://user-images.githubusercontent.com/79189521/167994048-d4a8cea1-41ff-4101-a7d5-eace948206ab.jpg)
